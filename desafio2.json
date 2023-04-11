@@ -1,0 +1,11 @@
+[
+	{
+		"id": 1,
+		"tittle": "Coca Cola Light",
+		"description": "Botella de Coca cola de 500ml",
+		"price": 200,
+		"thumbnail": "img/coca",
+		"code": "0a",
+		"stock": 10
+	}
+]
