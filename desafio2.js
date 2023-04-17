@@ -66,11 +66,14 @@ class ProductManager {
 
 }
 
-
-const product = new ProductManager()
-product.addProduct("Coca Cola", "Botella de Coca cola de 500ml", 200, "img/coca", "0a", 10)
-product.addProduct("Coca Cola zero", "Botella de Coca cola de 500ml", 200, "img/coca", "0b", 10)
+module.exports = ProductManager;
+//  const product = new ProductManager()
+// product.addProduct("Coca Cola", "Botella de Coca cola de 500ml", 200, "img/coca", "0a", 10)
+// product.addProduct("Coca Cola zero", "Botella de Coca cola de 500ml", 200, "img/coca0", "0b", 10)
+// product.addProduct("Sprite", "Botella de Coca cola de 500ml", 200, "img/sprite", "1a", 10)
+// product.addProduct("Sprite Zero", "Botella de Coca cola de 500ml", 200, "img/sprite0", "1b", 10)
+// product.addProduct("Monster", "Lata de monster de 500ml", 200, "img/monster", "2a", 10)
 // console.log(product.getProducts())
 // console.log(product.getProductsbyId(10))
-product.updateProd(1, "tittle", "Coca Cola Light")
-product.removeProduct(2)
+// product.updateProd(1, "tittle", "Coca Cola Light")
+// product.removeProduct(2)

@@ -1,11 +1,92 @@
 [
 	{
 		"id": 1,
-		"tittle": "Coca Cola Light",
+		"tittle": "Coca Cola",
 		"description": "Botella de Coca cola de 500ml",
 		"price": 200,
 		"thumbnail": "img/coca",
 		"code": "0a",
+		"stock": 10
+	},
+	{
+		"id": 2,
+		"tittle": "Coca Cola zero",
+		"description": "Botella de Coca cola de 500ml",
+		"price": 200,
+		"thumbnail": "img/coca0",
+		"code": "0b",
+		"stock": 10
+	},
+	{
+		"id": 3,
+		"tittle": "Sprite",
+		"description": "Botella de Coca cola de 500ml",
+		"price": 200,
+		"thumbnail": "img/sprite",
+		"code": "1a",
+		"stock": 10
+	},
+	{
+		"id": 4,
+		"tittle": "Sprite Zero",
+		"description": "Botella de Coca cola de 500ml",
+		"price": 200,
+		"thumbnail": "img/sprite0",
+		"code": "1b",
+		"stock": 10
+	},
+	{
+		"id": 5,
+		"tittle": "Monster",
+		"description": "Lata de monster de 500ml",
+		"price": 200,
+		"thumbnail": "img/monster",
+		"code": "2a",
+		"stock": 10
+	},
+	{
+		"id": 6,
+		"tittle": "Monster blanca",
+		"description": "Lata de Monster blanca de 500ml",
+		"price": 200,
+		"thumbnail": "img/monster1",
+		"code": "2b",
+		"stock": 10
+	},
+	{
+		"id": 7,
+		"tittle": "Monster mango",
+		"description": "Lata de Monster celeste de 500ml",
+		"price": 200,
+		"thumbnail": "img/monster2",
+		"code": "2c",
+		"stock": 10
+	},
+	{
+		"id": 8,
+		"tittle": "Monster strawberry",
+		"description": "Lata de Monster roja de 500ml",
+		"price": 200,
+		"thumbnail": "img/monster3",
+		"code": "2d",
+		"stock": 10
+	},
+	{
+		"id": 9,
+		"tittle": "Fanta",
+		"description": "Lata de Fanta de 500ml",
+		"price": 200,
+		"thumbnail": "img/fanta",
+		"code": "3a",
+		"stock": 10
+	},
+	{
+		"id": 10,
+		"tittle": "Fanta Zero",
+		"description": "Lata de Fanta zero de 500ml",
+		"price": 200,
+		"thumbnail": "img/fanta0",
+		"code": "3b",
 		"stock": 10
 	}
 ]
